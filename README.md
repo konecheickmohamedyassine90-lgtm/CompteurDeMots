@@ -1,4 +1,4 @@
-# CompteurDeMots - Exercice 3
+# CompteurDeMots 
 
 ## Description
 Programme Java qui compte le nombre de mots 
