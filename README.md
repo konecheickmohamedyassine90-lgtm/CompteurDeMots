@@ -6,7 +6,7 @@ dans un fichier texte.
 
 ## Fonctionnalités
 - Lit un fichier texte ligne par ligne
-- Affiche chaque ligne avec son numéro
+- Affiche chaque ligne 
 - Compte les mots de chaque ligne
 - Affiche le total de mots du fichier
 
